@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "60fa96bfaf64f044",
+        "id": "e4fc8d7b541b3817",
         "type": "tabs",
         "children": [
           {
-            "id": "5d356acea7b08a4b",
+            "id": "15f26877480a1a40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCA/Q3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Q3"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OCA/Q3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Q3"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OCA/Q3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Q3"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OCA/Q3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Q3"
+              "title": "Outline"
             }
           }
         ]
@@ -168,26 +161,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d356acea7b08a4b",
+  "active": "15f26877480a1a40",
   "lastOpenFiles": [
-    "OCA/Q2.md",
+    "OOPS/Q1.md",
     "OCA/Q3.md",
     "OCA/Q1.md",
-    "OOPS/Q7.md",
-    "OOPS/Q1.md",
-    "OOPS/Q9.md",
     "OOPS/Q8.md",
-    "OOPS/Q6.md",
+    "OOPS/Q4.md",
+    "OOPS/Q3.md",
+    "OCA/Q2.md",
     "Exceptions/Q3.md",
+    "OOPS/Q7.md",
+    "OOPS/Q9.md",
+    "OOPS/Q6.md",
     "Exceptions/Q2.md",
     "Exceptions/Q1.md",
     "OOPS/Q5.md",
-    "OOPS/Q4.md",
     "Collections/Q1.md",
     "Exceptions",
     "OCA",
     "OOPS/Q2.md",
-    "OOPS/Q3.md",
     "Basics/Untitled.md",
     "Collections",
     "OOPS",

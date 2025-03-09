@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "490c0aa928c3ee5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fa96bfaf64f044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d356acea7b08a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCA/Q3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3c1e5479a58f57b",
+    "type": "split",
+    "children": [
+      {
+        "id": "efcd5e568e56462a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13452ace132481b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "045f9dd78099eccc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f3e2990ae37e9c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6da465e48e35caa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3168aa063d112be6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726365895e10f1e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OCA/Q3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Q3"
+            }
+          },
+          {
+            "id": "745c5da998c5eac7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OCA/Q3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Q3"
+            }
+          },
+          {
+            "id": "b7cf7e2fabf19ff5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3ca9d351da38ba9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OCA/Q3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Q3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5d356acea7b08a4b",
+  "lastOpenFiles": [
+    "OCA/Q2.md",
+    "OCA/Q3.md",
+    "OCA/Q1.md",
+    "OOPS/Q7.md",
+    "OOPS/Q1.md",
+    "OOPS/Q9.md",
+    "OOPS/Q8.md",
+    "OOPS/Q6.md",
+    "Exceptions/Q3.md",
+    "Exceptions/Q2.md",
+    "Exceptions/Q1.md",
+    "OOPS/Q5.md",
+    "OOPS/Q4.md",
+    "Collections/Q1.md",
+    "Exceptions",
+    "OCA",
+    "OOPS/Q2.md",
+    "OOPS/Q3.md",
+    "Basics/Untitled.md",
+    "Collections",
+    "OOPS",
+    "Basics"
+  ]
+}

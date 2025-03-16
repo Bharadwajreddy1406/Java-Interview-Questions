@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4fc8d7b541b3817",
+        "id": "363127ac324f6112",
         "type": "tabs",
         "children": [
           {
-            "id": "15f26877480a1a40",
+            "id": "570bff9fba753779",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -161,27 +161,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f26877480a1a40",
+  "active": "13452ace132481b7",
   "lastOpenFiles": [
-    "OOPS/Q1.md",
+    "Leetcode/TOPICS",
+    "Leetcode/TOPICS/DSU.md",
+    "Leetcode/547. NUMBER OF PROVINCES.md",
+    "Leetcode/3. Longest Substring Without Repeating Characters (medium).md",
+    "Leetcode/2090. K Radius Subarray Averages (Medium).md",
+    "Leetcode/TOPICS/SLIDING WINDOW.md",
+    "Leetcode/643. Maximum Average Subarray I (Easy).md",
+    "OOPS/OOPS.md",
     "OCA/Q3.md",
+    "Basics/Untitled.md",
+    "OCA/OCA.md",
+    "Collections/COLLECTIONS.md",
+    "Exceptions/EXCEPTIONS.md",
+    "Exceptions/Q2.md",
+    "Untitled",
+    "Collections/Q1.md",
+    "OCA/Q2.md",
     "OCA/Q1.md",
+    "OOPS/Q1.md",
     "OOPS/Q8.md",
     "OOPS/Q4.md",
     "OOPS/Q3.md",
-    "OCA/Q2.md",
     "Exceptions/Q3.md",
     "OOPS/Q7.md",
     "OOPS/Q9.md",
     "OOPS/Q6.md",
-    "Exceptions/Q2.md",
     "Exceptions/Q1.md",
-    "OOPS/Q5.md",
-    "Collections/Q1.md",
     "Exceptions",
     "OCA",
-    "OOPS/Q2.md",
-    "Basics/Untitled.md",
     "Collections",
     "OOPS",
     "Basics"

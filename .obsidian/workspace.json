@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ee4b56ececb4d1c",
+        "id": "079edc7e6a798594",
         "type": "tabs",
         "children": [
           {
-            "id": "1f6e511fe7ee56ba",
+            "id": "a3afa0673aa48828",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -161,12 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f6e511fe7ee56ba",
+  "active": "a3afa0673aa48828",
   "lastOpenFiles": [
+    "Basics/Untitled.md",
+    "OCA/Q3.md",
     "java_progs/Build Tree with Inorder & Postorder.md",
-    "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
-    "Leetcode/547. NUMBER OF PROVINCES.md",
     "Leetcode/TOPICS/Binary tree.md",
+    "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
+    "Leetcode/LEETCODE 🤖.md",
+    "Leetcode/547. NUMBER OF PROVINCES.md",
     "Leetcode/TOPICS/Binary Search Tree.md",
     "java_progs/Programs in FS.md",
     "java_progs/Building Tree with Inorder and PreOrder.md",
@@ -185,8 +188,6 @@
     "Leetcode/2090. K Radius Subarray Averages (Medium).md",
     "Leetcode/643. Maximum Average Subarray I (Easy).md",
     "OOPS/OOPS.md",
-    "OCA/Q3.md",
-    "Basics/Untitled.md",
     "OCA/OCA.md",
     "Collections/COLLECTIONS.md",
     "Exceptions/EXCEPTIONS.md",
@@ -194,7 +195,6 @@
     "Collections/Q1.md",
     "OCA/Q2.md",
     "OCA/Q1.md",
-    "OOPS/Q1.md",
     "Exceptions",
     "OCA",
     "Collections",

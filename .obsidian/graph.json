@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "LEETCODE",
+      "color": {
+        "a": 1,
+        "rgb": 4191165
+      }
+    },
+    {
+      "query": "OOPS",
+      "color": {
+        "a": 1,
+        "rgb": 10448126
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.41160296296296,
   "lineSizeMultiplier": 1.15143111111111,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 11.6491851851852,
+  "centerStrength": 0.578666666666667,
+  "repelStrength": 16.6554074074074,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5872233350553377,
+  "scale": 0.4178866635374052,
   "close": true
 }

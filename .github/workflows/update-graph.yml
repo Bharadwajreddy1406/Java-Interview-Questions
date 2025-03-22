@@ -1,0 +1,24 @@
+name: Update Obsidian Graph
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Convert JSON to HTML Graph
+        run: python scripts/generate_graph.py
+
+      - name: Commit and Push Updated Graph
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git add graphs/index.html
+          git commit -m "Auto-update Obsidian Graph" || exit 0
+          git push origin main

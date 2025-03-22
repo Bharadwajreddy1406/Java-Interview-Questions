@@ -2,3 +2,4 @@
 [[Binary tree]]
 [[Binary Search Tree]]
 [[DSU]]
+[[GRAPHS]]

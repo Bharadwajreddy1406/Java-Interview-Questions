@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "079edc7e6a798594",
+        "id": "c9d263d2aa86a2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "a3afa0673aa48828",
+            "id": "39c6ffcce4721116",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,15 +161,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3afa0673aa48828",
+  "active": "39c6ffcce4721116",
   "lastOpenFiles": [
+    "README.md",
+    "ReadMe.md",
+    "scripts/generate_graph.py",
+    "scripts",
+    "graphs/metadata.json",
+    "graphs",
+    "Leetcode/TOPICS/DSU.md",
+    "Leetcode/LEETCODE 🤖.md",
+    "Leetcode/547. NUMBER OF PROVINCES.md",
+    "Leetcode/TOPICS/GRAPHS.md",
+    "Leetcode/2685. Count the Number of Complete Components.md",
+    "Leetcode/TOPICS/Binary tree.md",
     "Basics/Untitled.md",
     "OCA/Q3.md",
     "java_progs/Build Tree with Inorder & Postorder.md",
-    "Leetcode/TOPICS/Binary tree.md",
     "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
-    "Leetcode/LEETCODE 🤖.md",
-    "Leetcode/547. NUMBER OF PROVINCES.md",
     "Leetcode/TOPICS/Binary Search Tree.md",
     "java_progs/Programs in FS.md",
     "java_progs/Building Tree with Inorder and PreOrder.md",
@@ -184,21 +193,12 @@
     "Leetcode/3. Longest Substring Without Repeating Characters (medium).md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
     "Leetcode/TOPICS",
-    "Leetcode/TOPICS/DSU.md",
     "Leetcode/2090. K Radius Subarray Averages (Medium).md",
     "Leetcode/643. Maximum Average Subarray I (Easy).md",
     "OOPS/OOPS.md",
     "OCA/OCA.md",
     "Collections/COLLECTIONS.md",
     "Exceptions/EXCEPTIONS.md",
-    "Exceptions/Q2.md",
-    "Collections/Q1.md",
-    "OCA/Q2.md",
-    "OCA/Q1.md",
-    "Exceptions",
-    "OCA",
-    "Collections",
-    "OOPS",
-    "Basics"
+    "Exceptions"
   ]
 }

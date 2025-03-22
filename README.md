@@ -1,3 +1,3 @@
-# 📌 Interactive Obsidian Graph
+## Interactive Graph View
 
-🚀 **[Click Here to View the Interactive Graph](graphs/index.html)**
+[Click here to view the Obsidian Graph](https://bharadwajreddy1406.github.io/Java-Interview-Questions/graph.html)

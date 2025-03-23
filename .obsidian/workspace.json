@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d72291ac27fd5f41",
+        "id": "922e78bfc5f079f8",
         "type": "tabs",
         "children": [
           {
-            "id": "e0aee00483af2a86",
+            "id": "c388f218712b7a06",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -161,22 +161,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0aee00483af2a86",
+  "active": "c388f218712b7a06",
   "lastOpenFiles": [
+    "Leetcode/TOPICS/TOPOLOGICAL SORT.md",
+    "Leetcode/210. Course Schedule II.md",
+    "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
+    "Basics/Untitled.md",
+    "Leetcode/207.Course Schedule - Medium.md",
+    "Leetcode/3. Longest Substring Without Repeating Characters (medium).md",
+    "Leetcode/LEETCODE 🤖.md",
     "Leetcode/2115. Find All Possible Recipes from Given Supplies.md",
     "Leetcode/TOPICS/MATH.md",
     "Leetcode/TOPICS/Divide And Conquer.md",
     "Leetcode/4. Median of Two Sorted Arrays.md",
     "Leetcode/7. Reverse Integer.md",
     "Leetcode/TOPICS/GRAPHS.md",
-    "Leetcode/LEETCODE 🤖.md",
     "Leetcode/567. Permutation in String.md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
-    "Leetcode/TOPICS/TOPOLOGICAL SORT.md",
     "java_progs/Programs in FS.md",
     "OOPS/Q1.md",
     "README.md",
-    "Basics/Untitled.md",
     "docs",
     "Untitled.md",
     "ReadMe.md",
@@ -190,12 +194,8 @@
     "Leetcode/TOPICS/Binary tree.md",
     "OCA/Q3.md",
     "java_progs/Build Tree with Inorder & Postorder.md",
-    "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
-    "Leetcode/TOPICS/Binary Search Tree.md",
-    "java_progs/Building Tree with Inorder and PreOrder.md",
     "Images",
     "Images/ino_preo_excali.png.png",
-    "java_progs/Agent Code Translation.md",
     "Quizzes/CI and BAC.pdf",
     "Quizzes",
     "New folder",

@@ -6,22 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "LEETCODE",
-      "color": {
-        "a": 1,
-        "rgb": 4191165
-      }
-    },
-    {
-      "query": "OOPS",
-      "color": {
-        "a": 1,
-        "rgb": 10448126
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -32,6 +17,6 @@
   "repelStrength": 16.6554074074074,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.304906866473717,
+  "scale": 0.3761185931970057,
   "close": true
 }

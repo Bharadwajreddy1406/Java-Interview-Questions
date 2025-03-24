@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "922e78bfc5f079f8",
+        "id": "c4fe8f2e0fdbb3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c388f218712b7a06",
+            "id": "fb6ab9734e59abfb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6da465e48e35caa7",
@@ -161,9 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c388f218712b7a06",
+  "active": "fb6ab9734e59abfb",
   "lastOpenFiles": [
+    "Leetcode/851. Loud and Rich.md",
     "Leetcode/TOPICS/TOPOLOGICAL SORT.md",
+    "Images/851.png",
+    "Leetcode/TOPICS/Divide And Conquer.md",
+    "Leetcode/4. Median of Two Sorted Arrays.md",
     "Leetcode/210. Course Schedule II.md",
     "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
     "Basics/Untitled.md",
@@ -172,8 +177,6 @@
     "Leetcode/LEETCODE 🤖.md",
     "Leetcode/2115. Find All Possible Recipes from Given Supplies.md",
     "Leetcode/TOPICS/MATH.md",
-    "Leetcode/TOPICS/Divide And Conquer.md",
-    "Leetcode/4. Median of Two Sorted Arrays.md",
     "Leetcode/7. Reverse Integer.md",
     "Leetcode/TOPICS/GRAPHS.md",
     "Leetcode/567. Permutation in String.md",
@@ -192,8 +195,6 @@
     "Leetcode/547. NUMBER OF PROVINCES.md",
     "Leetcode/2685. Count the Number of Complete Components.md",
     "Leetcode/TOPICS/Binary tree.md",
-    "OCA/Q3.md",
-    "java_progs/Build Tree with Inorder & Postorder.md",
     "Images",
     "Images/ino_preo_excali.png.png",
     "Quizzes/CI and BAC.pdf",

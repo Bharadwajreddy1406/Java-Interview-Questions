@@ -5,4 +5,6 @@
 [[GRAPHS]]
 [[TOPOLOGICAL SORT]]
 [[MATH]]
+[[TWO POINTERS]]
+[[ARRAYS]]
 

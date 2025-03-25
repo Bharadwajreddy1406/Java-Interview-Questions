@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c013bc7540db24ba",
+        "id": "53d93cb5687a2581",
         "type": "tabs",
         "children": [
           {
-            "id": "0414fa3b9687beb7",
+            "id": "b66c127bce3d7131",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,19 +154,24 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0414fa3b9687beb7",
+  "active": "b66c127bce3d7131",
   "lastOpenFiles": [
+    "Leetcode/LEETCODE 🤖.md",
+    "java_progs/a. Java programs in FS.md",
+    "java_progs/Most Frequent Dishes (With Trie).md",
+    "java_progs/Programs in FS.md",
+    "java_progs/Find the 2 numbers with occurrence as 1.md",
+    "java_progs/Agent Code Translation.md",
     "Leetcode/851. Loud and Rich.md",
     "Leetcode/2115. Find All Possible Recipes from Given Supplies.md",
     "Leetcode/481. Magical String.md",
-    "Leetcode/LEETCODE 🤖.md",
     "Leetcode/TOPICS/ARRAYS.md",
     "Leetcode/73. Set Matrix Zeroes.md",
     "Images/73_2.png",
@@ -187,17 +192,12 @@
     "Leetcode/TOPICS/GRAPHS.md",
     "Leetcode/567. Permutation in String.md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
-    "java_progs/Programs in FS.md",
     "OOPS/Q1.md",
-    "README.md",
     "docs",
-    "Untitled.md",
-    "ReadMe.md",
     "scripts/generate_graph.py",
     "scripts",
     "graphs/metadata.json",
     "graphs",
-    "Leetcode/TOPICS/DSU.md",
     "Images",
     "Images/ino_preo_excali.png.png",
     "Quizzes/CI and BAC.pdf",

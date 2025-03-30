@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53d93cb5687a2581",
+        "id": "ad45ec006e714a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "b66c127bce3d7131",
+            "id": "1edb6de4e99ef421",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/17.Letter Combinations of a Phone Number.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "17.Letter Combinations of a Phone Number"
             }
           }
         ]
@@ -161,9 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b66c127bce3d7131",
+  "active": "1edb6de4e99ef421",
   "lastOpenFiles": [
+    "Leetcode/17.Letter Combinations of a Phone Number.md",
+    "Leetcode/22. Generate Parentheses.md",
     "Leetcode/LEETCODE 🤖.md",
+    "Leetcode/TOPICS/BACKTRACKING.md",
+    "Images/leetcode 22.png",
+    "Leetcode/TOPICS/DSU.md",
+    "Leetcode/TOPICS/GRAPHS.md",
+    "Leetcode/TOPICS/MATH.md",
+    "Leetcode/1759. Count Number of Homogenous Substrings.md",
+    "Leetcode/TOPICS/STRINGS.md",
     "java_progs/a. Java programs in FS.md",
     "java_progs/Most Frequent Dishes (With Trie).md",
     "java_progs/Programs in FS.md",
@@ -185,14 +198,6 @@
     "Leetcode/210. Course Schedule II.md",
     "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
     "Basics/Untitled.md",
-    "Leetcode/207.Course Schedule - Medium.md",
-    "Leetcode/3. Longest Substring Without Repeating Characters (medium).md",
-    "Leetcode/TOPICS/MATH.md",
-    "Leetcode/7. Reverse Integer.md",
-    "Leetcode/TOPICS/GRAPHS.md",
-    "Leetcode/567. Permutation in String.md",
-    "Leetcode/TOPICS/SLIDING WINDOW.md",
-    "OOPS/Q1.md",
     "docs",
     "scripts/generate_graph.py",
     "scripts",

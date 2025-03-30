@@ -11,10 +11,14 @@
             "id": "1edb6de4e99ef421",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/TOPICS/BACKTRACKING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BACKTRACKING"
             }
           }
         ]
@@ -163,7 +167,13 @@
   },
   "active": "1edb6de4e99ef421",
   "lastOpenFiles": [
+    "Leetcode/TOPICS/ARRAYS.md",
+    "Leetcode/46. Permutations.md",
     "Leetcode/TOPICS/BACKTRACKING.md",
+    "Leetcode/40.Combination Sum II.md",
+    "Leetcode/39.Combination Sum.md",
+    "README.md",
+    "Leetcode/37.Sudoku Solver.md",
     "Leetcode/17.Letter Combinations of a Phone Number.md",
     "Leetcode/22. Generate Parentheses.md",
     "Leetcode/LEETCODE 🤖.md",
@@ -181,7 +191,6 @@
     "Leetcode/851. Loud and Rich.md",
     "Leetcode/2115. Find All Possible Recipes from Given Supplies.md",
     "Leetcode/481. Magical String.md",
-    "Leetcode/TOPICS/ARRAYS.md",
     "Leetcode/73. Set Matrix Zeroes.md",
     "Images/73_2.png",
     "73-1.png",
@@ -189,11 +198,6 @@
     "Leetcode/TOPICS/TWO POINTERS.md",
     "Leetcode/TOPICS/TOPOLOGICAL SORT.md",
     "Images/851.png",
-    "Leetcode/TOPICS/Divide And Conquer.md",
-    "Leetcode/4. Median of Two Sorted Arrays.md",
-    "Leetcode/210. Course Schedule II.md",
-    "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
-    "Basics/Untitled.md",
     "docs",
     "scripts/generate_graph.py",
     "scripts",

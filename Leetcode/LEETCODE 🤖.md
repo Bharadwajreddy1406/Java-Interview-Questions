@@ -1,6 +1,7 @@
 [[SLIDING WINDOW]]
 [[Binary tree]]
 [[Binary Search Tree]]
+[[STRINGS]]
 [[DSU]]
 [[GRAPHS]]
 [[TOPOLOGICAL SORT]]

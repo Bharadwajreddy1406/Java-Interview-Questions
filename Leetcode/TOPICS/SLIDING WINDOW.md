@@ -1,4 +1,6 @@
 [[3. Longest Substring Without Repeating Characters (medium)]]
+[[219. Contains Duplicate II]]
 [[643. Maximum Average Subarray I (Easy)]]
 [[2090. K Radius Subarray Averages (Medium)]]
 [[567. Permutation in String]]
+[[438. Find All Anagrams in a String]]

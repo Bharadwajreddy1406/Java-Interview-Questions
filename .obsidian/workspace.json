@@ -161,14 +161,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28fda7adeaad3194",
+  "active": "13452ace132481b7",
   "lastOpenFiles": [
+    "Quizzes/transformer.pdf",
+    "Quizzes/s3quiz.pdf",
+    "Quizzes/QuizStream.pdf",
+    "Quizzes/Quizcyber.pdf",
+    "Quizzes/parallel_progs.pdf",
+    "Quizzes/jwt.pdf",
+    "Quizzes/decisionTree.pdf",
+    "Quizzes/day-11.pdf",
+    "Quizzes/day-05Quiz.pdf",
+    "Quizzes/day-03Quiz.pdf",
+    "Quizzes/day-02Quiz.pdf",
     "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/78. Subsets.md",
     "Leetcode/90. SUBSETS II.md",
     "Leetcode/51. N-Queens.md",
     "Leetcode/47. Permutations II.md",
-    "Leetcode/Untitled",
     "Images/47 leetcode.png",
     "Leetcode/46. Permutations.md",
     "Leetcode/40.Combination Sum II.md",
@@ -192,20 +202,10 @@
     "java_progs/a. Java programs in FS.md",
     "java_progs/Most Frequent Dishes (With Trie).md",
     "java_progs/Programs in FS.md",
-    "java_progs/Find the 2 numbers with occurrence as 1.md",
     "Images/73_2.png",
     "73-1.png",
     "Images/73_1.png",
     "Images/851.png",
-    "docs",
-    "scripts/generate_graph.py",
-    "scripts",
-    "graphs/metadata.json",
-    "graphs",
-    "Images",
-    "Images/ino_preo_excali.png.png",
-    "Quizzes/CI and BAC.pdf",
-    "Quizzes",
-    "New folder"
+    "Images/ino_preo_excali.png.png"
   ]
 }

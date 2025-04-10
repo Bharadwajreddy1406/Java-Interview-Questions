@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81d226248c5a20fe",
+        "id": "d6535368255bcedd",
         "type": "tabs",
         "children": [
           {
-            "id": "0f3a7cd43b86d5d5",
+            "id": "9951cf41f4b93e03",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -161,13 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f3a7cd43b86d5d5",
+  "active": "9951cf41f4b93e03",
   "lastOpenFiles": [
+    "java_progs/a. Java programs in FS.md",
+    "Leetcode/TOPICS/Binary Search Tree.md",
+    "java_progs/Finding numbers sum up to K in 2 BST's.md",
     "Leetcode/TOPICS/BACKTRACKING.md",
+    "Leetcode/113 Path Sum II.md",
     "Leetcode/52 N-Queens II.md",
     "Leetcode/77 Combinations.md",
     "Leetcode/17.Letter Combinations of a Phone Number.md",
-    "java_progs/a. Java programs in FS.md",
     "java_progs/Building Blocks WALL.md",
     "java_progs/Youth Festival.md",
     "java_progs/Sushi Conveyer belt.md",
@@ -200,9 +203,6 @@
     "Leetcode/78. Subsets.md",
     "Leetcode/90. SUBSETS II.md",
     "Leetcode/51. N-Queens.md",
-    "Leetcode/47. Permutations II.md",
-    "Leetcode/46. Permutations.md",
-    "Leetcode/40.Combination Sum II.md",
     "Images/leetcode 22.png",
     "73-1.png",
     "Images/73_1.png",

@@ -5,5 +5,7 @@
 [[40.Combination Sum II]]
 [[46. Permutations]]
 [[51. N-Queens]]
+[[52 N-Queens II]]
+[[77 Combinations]]
 [[78. Subsets]]
 [[90. SUBSETS II]]

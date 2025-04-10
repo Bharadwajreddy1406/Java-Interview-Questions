@@ -9,4 +9,5 @@
 [[TWO POINTERS]]
 [[ARRAYS]]
 [[BACKTRACKING]]
-
+[[GREEDY]]
+[[SegmentTree]]

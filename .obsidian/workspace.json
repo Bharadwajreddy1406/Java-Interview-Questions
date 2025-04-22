@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54adb88539a4c936",
+        "id": "d52c3f664e1ad1b5",
         "type": "tabs",
         "children": [
           {
-            "id": "b7d9f5504c8eece5",
+            "id": "18c79e61535837ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/TOPICS/TRIE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TRIE"
             }
           }
         ]
@@ -161,35 +165,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7d9f5504c8eece5",
+  "active": "18c79e61535837ae",
   "lastOpenFiles": [
+    "Images/Trie.png",
+    "Leetcode/TOPICS/TRIE.md",
+    "Pasted image 20250422214134.png",
+    "Leetcode/567. Permutation in String.md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
+    "Leetcode/159 Longest Substring with At Most 2 Distinct Characters.md",
+    "Leetcode/187 Repeated DNA Sequences.md",
+    "Leetcode/TOPICS/SQL.md",
+    "Leetcode/180 Consecutive Numbers.md",
+    "Leetcode/LEETCODE 🤖.md",
+    "Leetcode/TOPICS/STRINGS.md",
+    "Leetcode/67 Add binary numbers.md",
+    "Leetcode/58 Last word length.md",
+    "Leetcode/TOPICS/DP.md",
+    "Leetcode/63 Unique Paths  II.md",
+    "Leetcode/62 Unique Paths.md",
+    "Leetcode/213 House Robber II.md",
+    "Leetcode/198 House Robber.md",
+    "Leetcode/746 Min Cost Climbing Stairs.md",
+    "Leetcode/208 Implement Trie (Prefix Tree).md",
     "Leetcode/1358 Number of Substrings Containing All Three Characters.md",
-    "1358-image1.png",
-    "1358-image2.png",
+    "Leetcode/424 Longest Repeating Character Replacement.md",
+    "Images/1358-image1.png",
+    "Images/1358-image2.png",
     "Leetcode/219. Contains Duplicate II.md",
     "Leetcode/904 Fruit Into Baskets.md",
-    "Leetcode/159 Longest Substring with At Most 2 Distinct Characters.md",
     "Leetcode/340 Longest Substring with At Most K Distinct Characters.md",
     "Leetcode/3. Longest Substring Without Repeating Characters (medium).md",
-    "Untitled.md",
     "Leetcode/1004 Max Consecutive Ones III.md",
-    "Leetcode/1423  Maximum Points You Can Obtain from Cards.md",
-    "Leetcode/22. Generate Parentheses.md",
-    "java_progs/a. Java programs in FS.md",
-    "Leetcode/TOPICS/Binary Search Tree.md",
-    "java_progs/Finding numbers sum up to K in 2 BST's.md",
-    "Leetcode/TOPICS/BACKTRACKING.md",
-    "Leetcode/113 Path Sum II.md",
-    "Leetcode/52 N-Queens II.md",
-    "Leetcode/77 Combinations.md",
-    "Leetcode/17.Letter Combinations of a Phone Number.md",
-    "java_progs/Building Blocks WALL.md",
-    "java_progs/Youth Festival.md",
-    "java_progs/Sushi Conveyer belt.md",
-    "java_progs/Find Anagram Positions.md",
-    "Leetcode/LEETCODE 🤖.md",
-    "Leetcode/TOPICS/SegmentTree.md",
     "Images/851.png",
     "Images/763-leetcode.png",
     "Images/73_2.png",
@@ -205,8 +211,6 @@
     "Quizzes/day-05Quiz.pdf",
     "Quizzes/day-03Quiz.pdf",
     "Images/leetcode 22.png",
-    "73-1.png",
-    "Images/73_1.png",
-    "Images/ino_preo_excali.png.png"
+    "73-1.png"
   ]
 }

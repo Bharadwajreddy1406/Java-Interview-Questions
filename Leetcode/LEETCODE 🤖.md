@@ -10,4 +10,7 @@
 [[ARRAYS]]
 [[BACKTRACKING]]
 [[GREEDY]]
+[[TRIE]]
 [[SegmentTree]]
+[[DP]]
+[[SQL]]

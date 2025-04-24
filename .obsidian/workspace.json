@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33ca1d7f4a092f44",
+        "id": "ace033225301d0f8",
         "type": "tabs",
         "children": [
           {
-            "id": "245ae076945d9b3b",
+            "id": "6d7b03577c300727",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,8 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "245ae076945d9b3b",
+  "active": "6d7b03577c300727",
   "lastOpenFiles": [
+    "Leetcode/TOPICS/BACKTRACKING.md",
+    "Leetcode/47. Permutations II.md",
+    "Leetcode/TOPICS/SQL.md",
+    "Leetcode/181 Employees Earning More Than Their Managers.md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
     "Leetcode/2799 Count Complete sub arrays.md",
     "Leetcode/TOPICS/DP.md",
@@ -177,18 +181,14 @@
     "Leetcode/121 Best Time to Buy and Sell Stock.md",
     "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
     "Leetcode/509 Fibonacci number.md",
-    "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/78. Subsets.md",
     "Leetcode/79 Word Search.md",
-    "Leetcode/TOPICS/SQL.md",
     "Leetcode/177 Nth Highest Salary.md",
     "Leetcode/176 Second Highest Salary.md",
     "Leetcode/77 Combinations.md",
     "Leetcode/91 Decode Ways.md",
     "Leetcode/DP-02 FS.md",
     "Leetcode/1143 Longest Common Subsequence.md",
-    "Leetcode/72 Edit Distance.md",
-    "Leetcode/DP-01 FS.md",
     "Images/Trie.png",
     "Pasted image 20250422214134.png",
     "Images/1358-image1.png",

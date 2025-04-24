@@ -14,3 +14,4 @@
 [[SegmentTree]]
 [[DP]]
 [[SQL]]
+[[Divide And Conquer]]

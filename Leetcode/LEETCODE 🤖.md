@@ -13,5 +13,6 @@
 [[TRIE]]
 [[SegmentTree]]
 [[DP]]
+[[Prefix sum]]
 [[SQL]]
 [[Divide And Conquer]]

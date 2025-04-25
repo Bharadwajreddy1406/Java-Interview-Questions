@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ace033225301d0f8",
+        "id": "9592bc6e61d05f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "6d7b03577c300727",
+            "id": "8b60108f7d4fa6ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -161,8 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d7b03577c300727",
+  "active": "8b60108f7d4fa6ff",
   "lastOpenFiles": [
+    "Java.md",
+    "Leetcode/LEETCODE 🤖.md",
+    "Leetcode/TOPICS/Prefix sum.md",
+    "Leetcode/560 Subarray Sum Equals K.md",
     "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/47. Permutations II.md",
     "Leetcode/TOPICS/SQL.md",
@@ -173,10 +177,8 @@
     "Leetcode/547. NUMBER OF PROVINCES.md",
     "Leetcode/TOPICS/STRINGS.md",
     "Leetcode/1759. Count Number of Homogenous Substrings.md",
-    "Leetcode/LEETCODE 🤖.md",
     "Leetcode/213 House Robber II.md",
     "Leetcode/64 Minimum Path Sum.md",
-    "Java.md",
     "Leetcode/TOPICS/GREEDY.md",
     "Leetcode/121 Best Time to Buy and Sell Stock.md",
     "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
@@ -187,8 +189,6 @@
     "Leetcode/176 Second Highest Salary.md",
     "Leetcode/77 Combinations.md",
     "Leetcode/91 Decode Ways.md",
-    "Leetcode/DP-02 FS.md",
-    "Leetcode/1143 Longest Common Subsequence.md",
     "Images/Trie.png",
     "Pasted image 20250422214134.png",
     "Images/1358-image1.png",

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9592bc6e61d05f7f",
+        "id": "67a7b6ce5aeb9af7",
         "type": "tabs",
         "children": [
           {
-            "id": "8b60108f7d4fa6ff",
+            "id": "fad5608d442ba1f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,17 +161,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b60108f7d4fa6ff",
+  "active": "fad5608d442ba1f8",
   "lastOpenFiles": [
+    "Leetcode/TOPICS/ARRAYS.md",
+    "Leetcode/TOPICS/SLIDING WINDOW.md",
+    "Untitled.canvas",
+    "Leetcode/3392 Count Subarrays of Length Three With a Condition.md",
+    "Leetcode/3392  Count Subarrays of Length Three With a Condition --could be in sliding window.md",
+    "Leetcode/58 Last word length.md",
+    "Leetcode/TOPICS/SQL.md",
+    "Leetcode/619 Biggest Single Number.md",
     "Java.md",
     "Leetcode/LEETCODE 🤖.md",
     "Leetcode/TOPICS/Prefix sum.md",
     "Leetcode/560 Subarray Sum Equals K.md",
     "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/47. Permutations II.md",
-    "Leetcode/TOPICS/SQL.md",
     "Leetcode/181 Employees Earning More Than Their Managers.md",
-    "Leetcode/TOPICS/SLIDING WINDOW.md",
     "Leetcode/2799 Count Complete sub arrays.md",
     "Leetcode/TOPICS/DP.md",
     "Leetcode/547. NUMBER OF PROVINCES.md",
@@ -183,12 +189,6 @@
     "Leetcode/121 Best Time to Buy and Sell Stock.md",
     "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
     "Leetcode/509 Fibonacci number.md",
-    "Leetcode/78. Subsets.md",
-    "Leetcode/79 Word Search.md",
-    "Leetcode/177 Nth Highest Salary.md",
-    "Leetcode/176 Second Highest Salary.md",
-    "Leetcode/77 Combinations.md",
-    "Leetcode/91 Decode Ways.md",
     "Images/Trie.png",
     "Pasted image 20250422214134.png",
     "Images/1358-image1.png",

@@ -13,3 +13,4 @@
 [[1358 Number of Substrings Containing All Three Characters]]
 [[1423  Maximum Points You Can Obtain from Cards]]
 [[2799 Count Complete sub arrays]]
+[[3392  Count Subarrays of Length Three With a Condition --could be in sliding window]]

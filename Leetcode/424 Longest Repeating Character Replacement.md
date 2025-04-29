@@ -17,7 +17,7 @@
 ## 🔓 Trigger / Intuition
 
 > ✨ _When adjusting characters to make substrings uniform, think of how many characters you need to change to make a window valid.  
-If `window_length - most_frequent_char_count <= k`, it's a valid window._
+   If `window_length - most_frequent_char_count <= k`, it's a valid window._
 
 ---
 

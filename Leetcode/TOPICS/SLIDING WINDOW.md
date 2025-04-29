@@ -14,3 +14,5 @@
 [[1423  Maximum Points You Can Obtain from Cards]]
 [[2799 Count Complete sub arrays]]
 [[3392  Count Subarrays of Length Three With a Condition --could be in sliding window]]
+[[2962 Count Subarrays Where Max Element Appears at Least K Times]]
+[[2302 Count Subarrays With Score Less Than K]]

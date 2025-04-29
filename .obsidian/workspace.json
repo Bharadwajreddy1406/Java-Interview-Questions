@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67a7b6ce5aeb9af7",
+        "id": "508e0003f5fb0b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "fad5608d442ba1f8",
+            "id": "1850f37cc80b98db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/931 Minimum Falling Path Sum.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "931 Minimum Falling Path Sum"
             }
           }
         ]
@@ -161,10 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fad5608d442ba1f8",
+  "active": "1850f37cc80b98db",
   "lastOpenFiles": [
-    "Leetcode/TOPICS/ARRAYS.md",
+    "Leetcode/931 Minimum Falling Path Sum.md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
+    "Leetcode/2302 Count Subarrays With Score Less Than K.md",
+    "Leetcode/2799 Count Complete sub arrays.md",
+    "Leetcode/2962 Count Subarrays Where Max Element Appears at Least K Times.md",
+    "Leetcode/424 Longest Repeating Character Replacement.md",
+    "Leetcode/159 Longest Substring with At Most 2 Distinct Characters.md",
+    "Leetcode/643. Maximum Average Subarray I (Easy).md",
+    "Leetcode/1423  Maximum Points You Can Obtain from Cards.md",
+    "Leetcode/TOPICS/Binary tree.md",
+    "Leetcode/219. Contains Duplicate II.md",
+    "Leetcode/TOPICS/ARRAYS.md",
     "Untitled.canvas",
     "Leetcode/3392 Count Subarrays of Length Three With a Condition.md",
     "Leetcode/3392  Count Subarrays of Length Three With a Condition --could be in sliding window.md",
@@ -178,17 +192,8 @@
     "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/47. Permutations II.md",
     "Leetcode/181 Employees Earning More Than Their Managers.md",
-    "Leetcode/2799 Count Complete sub arrays.md",
     "Leetcode/TOPICS/DP.md",
     "Leetcode/547. NUMBER OF PROVINCES.md",
-    "Leetcode/TOPICS/STRINGS.md",
-    "Leetcode/1759. Count Number of Homogenous Substrings.md",
-    "Leetcode/213 House Robber II.md",
-    "Leetcode/64 Minimum Path Sum.md",
-    "Leetcode/TOPICS/GREEDY.md",
-    "Leetcode/121 Best Time to Buy and Sell Stock.md",
-    "Leetcode/106. Construct Binary Tree from Inorder and Postorder Traversal.md",
-    "Leetcode/509 Fibonacci number.md",
     "Images/Trie.png",
     "Pasted image 20250422214134.png",
     "Images/1358-image1.png",

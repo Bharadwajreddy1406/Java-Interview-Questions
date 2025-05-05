@@ -34,7 +34,7 @@ public class DSU1{
         for (int i = 0; i < m; i++) {
             int a = routes[i][0];
             int b = routes[i][1];
-            union(a, b, parent, rank);
+            union();
         }
     }
 }

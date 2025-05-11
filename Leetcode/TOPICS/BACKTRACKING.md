@@ -12,3 +12,46 @@
 [[90. SUBSETS II]]
 [[113 Path Sum II]]
 [[47. Permutations II]]
+
+
+
+
+### 🔁 Pattern: Sort + Skip Duplicates = Use `for` loop with `continue`
+
+When dealing with problems like:
+
+- **Subset II**
+    
+- **Combination Sum II**
+    
+- **Permutations II**
+    
+
+The **standard approach** is:
+
+1. **Sort the array** to bring duplicates together.
+    
+2. Use a **`for` loop** to explore choices at the current level.
+    
+3. **Skip duplicates** using this pattern:
+    
+    ```java
+    if (i > start && nums[i] == nums[i - 1]) continue;
+    ```
+    
+
+This means:
+
+- Only the **first occurrence** of a duplicate is allowed at a specific recursive level.
+    
+- All others are skipped to avoid repeated solutions.
+    
+
+---
+
+### 🧠 Mnemonic to remember:
+
+> **“Sort first, skip with `i > start`.”**  
+> (Start means the current level in DFS.)
+
+---

@@ -8,7 +8,7 @@ public class DSU1{
         }
         return parent[x];
     }
-    
+
     static void union(){
 
 

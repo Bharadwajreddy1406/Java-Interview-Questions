@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b2f553ac250d85",
+        "id": "8ae826b056e11f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "8ca59a68b480ec3e",
+            "id": "8bb2ea0183fb8280",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/TOPICS/BACKTRACKING.md",
+                "file": "java_progs/Java programs in FS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BACKTRACKING"
+              "title": "Java programs in FS"
             }
           }
         ]
@@ -165,36 +165,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ca59a68b480ec3e",
+  "active": "8bb2ea0183fb8280",
   "lastOpenFiles": [
+    "Java.md",
+    "Basics/Untitled.md",
+    "Leetcode/TOPICS/DP.md",
+    "Leetcode/931 Minimum Falling Path Sum.md",
+    "Leetcode/TOPICS/GREEDY.md",
+    "Leetcode/Max Raincoats Siddu can buy.md",
+    "Leetcode/TOPICS/GRID Problems.md",
+    "Leetcode/Number of Enclosed Empty Spaces.md",
+    "Leetcode/TOPICS/Binary Search Tree.md",
+    "Leetcode/2656. Maximum Sum With Exactly K Elements.md",
+    "Leetcode/1961. Check If String Is a Prefix of Array.md",
+    "Leetcode/LEETCODE 🤖.md",
+    "Leetcode/TOPICS/SLIDING WINDOW.md",
+    "Leetcode/216 Combination Sum III.md",
+    "Leetcode/TOPICS/BACKTRACKING.md",
+    "java_progs/Java programs in FS.md",
+    "Leetcode/131 Palindrome Partitioning.md",
+    "Leetcode/93. Restore IP Addresses.md",
     "Leetcode/78. Subsets.md",
     "Leetcode/46. Permutations.md",
     "Leetcode/TOPICS/ARRAYS.md",
-    "Leetcode/LeetCode 2656. Maximum Sum With Exactly K Elements.md",
-    "Leetcode/LeetCode 1961. Check If String Is a Prefix of Array.md",
     "Leetcode/TOPICS/TOPOLOGICAL SORT.md",
     "Leetcode/851. Loud and Rich.md",
     "Images/851.png",
-    "Leetcode/931 Minimum Falling Path Sum.md",
-    "Leetcode/TOPICS/SLIDING WINDOW.md",
     "Leetcode/2302 Count Subarrays With Score Less Than K.md",
     "Leetcode/2799 Count Complete sub arrays.md",
     "Leetcode/2962 Count Subarrays Where Max Element Appears at Least K Times.md",
-    "Leetcode/424 Longest Repeating Character Replacement.md",
-    "Leetcode/159 Longest Substring with At Most 2 Distinct Characters.md",
-    "Leetcode/643. Maximum Average Subarray I (Easy).md",
-    "Leetcode/1423  Maximum Points You Can Obtain from Cards.md",
-    "Leetcode/TOPICS/Binary tree.md",
-    "Leetcode/219. Contains Duplicate II.md",
     "Untitled.canvas",
-    "Leetcode/3392 Count Subarrays of Length Three With a Condition.md",
-    "Leetcode/3392  Count Subarrays of Length Three With a Condition --could be in sliding window.md",
-    "Leetcode/58 Last word length.md",
-    "Leetcode/TOPICS/SQL.md",
-    "Leetcode/619 Biggest Single Number.md",
-    "Java.md",
-    "Leetcode/LEETCODE 🤖.md",
-    "Leetcode/TOPICS/Prefix sum.md",
     "Images/Trie.png",
     "Pasted image 20250422214134.png",
     "Images/1358-image1.png",

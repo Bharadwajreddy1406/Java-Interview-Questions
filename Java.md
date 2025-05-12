@@ -2,4 +2,4 @@
 [[COLLECTIONS]]
 [[EXCEPTIONS]]
 [[OOPS]]
-[[a. Java programs in FS]]
+[[Java programs in FS]]

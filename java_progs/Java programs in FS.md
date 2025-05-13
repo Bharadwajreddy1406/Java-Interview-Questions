@@ -9,4 +9,5 @@
 [[Find Anagram Positions]]
 [[Sushi Conveyer belt]]
 [[Building Blocks WALL]]
+[[Minimum suffix flips to reach final state]]
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae826b056e11f2d",
+        "id": "45a8aa63eae122f2",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb2ea0183fb8280",
+            "id": "22e8e70731ba02f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java_progs/Java programs in FS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Java programs in FS"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb2ea0183fb8280",
+  "active": "22e8e70731ba02f5",
   "lastOpenFiles": [
+    "Leetcode/LEETCODE 🤖.md",
+    "java_progs/Java programs in FS.md",
+    "java_progs/Minimum suffix flips to reach final state.md",
     "Java.md",
     "Basics/Untitled.md",
     "Leetcode/TOPICS/DP.md",
@@ -178,11 +177,9 @@
     "Leetcode/TOPICS/Binary Search Tree.md",
     "Leetcode/2656. Maximum Sum With Exactly K Elements.md",
     "Leetcode/1961. Check If String Is a Prefix of Array.md",
-    "Leetcode/LEETCODE 🤖.md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
     "Leetcode/216 Combination Sum III.md",
     "Leetcode/TOPICS/BACKTRACKING.md",
-    "java_progs/Java programs in FS.md",
     "Leetcode/131 Palindrome Partitioning.md",
     "Leetcode/93. Restore IP Addresses.md",
     "Leetcode/78. Subsets.md",
@@ -193,7 +190,6 @@
     "Images/851.png",
     "Leetcode/2302 Count Subarrays With Score Less Than K.md",
     "Leetcode/2799 Count Complete sub arrays.md",
-    "Leetcode/2962 Count Subarrays Where Max Element Appears at Least K Times.md",
     "Untitled.canvas",
     "Images/Trie.png",
     "Pasted image 20250422214134.png",

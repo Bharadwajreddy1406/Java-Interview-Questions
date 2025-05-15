@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45a8aa63eae122f2",
+        "id": "67ca5d2f19da54b9",
         "type": "tabs",
         "children": [
           {
-            "id": "22e8e70731ba02f5",
+            "id": "7b7440a7652a06cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22e8e70731ba02f5",
+  "active": "7b7440a7652a06cd",
   "lastOpenFiles": [
+    "Leetcode/124 . Binary Tree Maximum Path Sum.md",
+    "Leetcode/1004 Max Consecutive Ones III.md",
+    "Leetcode/TOPICS/Binary tree.md",
+    "Leetcode/94 Inorder Traversal.md",
+    "Leetcode/144 PreOrder Traversal.md",
+    "Leetcode/543 Diameter of a Binary tree.md",
+    "Leetcode/110 Balanced Binary Tree.md",
+    "Leetcode/TOPICS/BACKTRACKING.md",
+    "Leetcode/401 Binary watch.md",
     "Leetcode/LEETCODE 🤖.md",
     "java_progs/Java programs in FS.md",
     "java_progs/Minimum suffix flips to reach final state.md",
@@ -179,17 +188,8 @@
     "Leetcode/1961. Check If String Is a Prefix of Array.md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
     "Leetcode/216 Combination Sum III.md",
-    "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/131 Palindrome Partitioning.md",
-    "Leetcode/93. Restore IP Addresses.md",
-    "Leetcode/78. Subsets.md",
-    "Leetcode/46. Permutations.md",
-    "Leetcode/TOPICS/ARRAYS.md",
-    "Leetcode/TOPICS/TOPOLOGICAL SORT.md",
-    "Leetcode/851. Loud and Rich.md",
     "Images/851.png",
-    "Leetcode/2302 Count Subarrays With Score Less Than K.md",
-    "Leetcode/2799 Count Complete sub arrays.md",
     "Untitled.canvas",
     "Images/Trie.png",
     "Pasted image 20250422214134.png",

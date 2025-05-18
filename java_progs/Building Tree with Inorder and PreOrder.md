@@ -97,6 +97,9 @@ public class InPreOrder_Spiral{
         }
         return arr;
     }
+
+
+
     public static void solve(int[] inorder, int[] preorder, int n, int lower, int upper){
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i = 0;i<n;i++){
@@ -105,7 +108,9 @@ public class InPreOrder_Spiral{
         BinaryTree root = getTree(map,inorder,preorder,0,n-1,0,n-1);
         System.out.println(levelOrder(root,lower,upper));
     }
-    
+
+
+
     public static BinaryTree getTree(HashMap<Integer,Integer> map, int[] inorder, int[] preorder, int inorderStart, int inorderEnd, int preorderStart, int preorderEnd){
         if(inorderStart > inorderEnd || preorderStart > preorderEnd){
             return null;

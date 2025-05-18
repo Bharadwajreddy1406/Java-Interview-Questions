@@ -11,10 +11,14 @@
             "id": "7b7440a7652a06cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "java_progs/Building Tree with Inorder and PreOrder.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Building Tree with Inorder and PreOrder"
             }
           }
         ]

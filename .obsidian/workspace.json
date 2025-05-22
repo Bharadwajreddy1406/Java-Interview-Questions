@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2370b2d7806e25c4",
+        "id": "bc82ec716d77926e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b2e4416c763260c",
+            "id": "87bf4577a51ccd53",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b2e4416c763260c",
+  "active": "87bf4577a51ccd53",
   "lastOpenFiles": [
+    "Leetcode/TOPICS/Prefix sum.md",
+    "Leetcode/TOPICS/GREEDY.md",
+    "Leetcode/3355 Zero-array-transformation I.md",
     "java_progs/Building Tree with Inorder and PreOrder.md",
     "Leetcode/124 . Binary Tree Maximum Path Sum.md",
     "Leetcode/1004 Max Consecutive Ones III.md",
@@ -180,15 +183,12 @@
     "Basics/Untitled.md",
     "Leetcode/TOPICS/DP.md",
     "Leetcode/931 Minimum Falling Path Sum.md",
-    "Leetcode/TOPICS/GREEDY.md",
     "Leetcode/Max Raincoats Siddu can buy.md",
     "Leetcode/TOPICS/GRID Problems.md",
     "Leetcode/Number of Enclosed Empty Spaces.md",
     "Leetcode/TOPICS/Binary Search Tree.md",
     "Leetcode/2656. Maximum Sum With Exactly K Elements.md",
     "Leetcode/1961. Check If String Is a Prefix of Array.md",
-    "Leetcode/TOPICS/SLIDING WINDOW.md",
-    "Leetcode/216 Combination Sum III.md",
     "Images/851.png",
     "Untitled.canvas",
     "Images/Trie.png",

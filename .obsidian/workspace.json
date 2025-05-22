@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67ca5d2f19da54b9",
+        "id": "2370b2d7806e25c4",
         "type": "tabs",
         "children": [
           {
-            "id": "7b7440a7652a06cd",
+            "id": "3b2e4416c763260c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java_progs/Building Tree with Inorder and PreOrder.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Building Tree with Inorder and PreOrder"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b7440a7652a06cd",
+  "active": "3b2e4416c763260c",
   "lastOpenFiles": [
+    "java_progs/Building Tree with Inorder and PreOrder.md",
     "Leetcode/124 . Binary Tree Maximum Path Sum.md",
     "Leetcode/1004 Max Consecutive Ones III.md",
     "Leetcode/TOPICS/Binary tree.md",
@@ -192,7 +189,6 @@
     "Leetcode/1961. Check If String Is a Prefix of Array.md",
     "Leetcode/TOPICS/SLIDING WINDOW.md",
     "Leetcode/216 Combination Sum III.md",
-    "Leetcode/131 Palindrome Partitioning.md",
     "Images/851.png",
     "Untitled.canvas",
     "Images/Trie.png",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc82ec716d77926e",
+        "id": "23f7a890171804e6",
         "type": "tabs",
         "children": [
           {
-            "id": "87bf4577a51ccd53",
+            "id": "83796645d00db6e2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,20 +161,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87bf4577a51ccd53",
+  "active": "83796645d00db6e2",
   "lastOpenFiles": [
+    "Leetcode/TOPICS/Binary tree.md",
+    "Leetcode/515 Find Largest Value in Each Tree Row.md",
+    "Leetcode/TOPICS/BACKTRACKING.md",
+    "Leetcode/513 Find Bottom Left Tree Value.md",
+    "Leetcode/314 Binary Tree Vertical Order Traversal.md",
+    "Leetcode/545 Boundary Traversal of the Binary Tree.md",
+    "Leetcode/100 Same Tree.md",
     "Leetcode/TOPICS/Prefix sum.md",
     "Leetcode/TOPICS/GREEDY.md",
     "Leetcode/3355 Zero-array-transformation I.md",
     "java_progs/Building Tree with Inorder and PreOrder.md",
     "Leetcode/124 . Binary Tree Maximum Path Sum.md",
     "Leetcode/1004 Max Consecutive Ones III.md",
-    "Leetcode/TOPICS/Binary tree.md",
     "Leetcode/94 Inorder Traversal.md",
     "Leetcode/144 PreOrder Traversal.md",
     "Leetcode/543 Diameter of a Binary tree.md",
     "Leetcode/110 Balanced Binary Tree.md",
-    "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/401 Binary watch.md",
     "Leetcode/LEETCODE 🤖.md",
     "java_progs/Java programs in FS.md",
@@ -184,11 +189,6 @@
     "Leetcode/TOPICS/DP.md",
     "Leetcode/931 Minimum Falling Path Sum.md",
     "Leetcode/Max Raincoats Siddu can buy.md",
-    "Leetcode/TOPICS/GRID Problems.md",
-    "Leetcode/Number of Enclosed Empty Spaces.md",
-    "Leetcode/TOPICS/Binary Search Tree.md",
-    "Leetcode/2656. Maximum Sum With Exactly K Elements.md",
-    "Leetcode/1961. Check If String Is a Prefix of Array.md",
     "Images/851.png",
     "Untitled.canvas",
     "Images/Trie.png",

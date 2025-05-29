@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "371cfaa237dab7bc",
+        "id": "f60f24879b9a5eae",
         "type": "tabs",
         "children": [
           {
-            "id": "d82be5dc629234c6",
+            "id": "09203bc283eda180",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/TOPICS/DP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DP"
             }
           }
         ]
@@ -161,9 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d82be5dc629234c6",
+  "active": "09203bc283eda180",
   "lastOpenFiles": [
+    "Leetcode/583 Delete Operation for Two Strings.md",
     "Leetcode/TOPICS/DP.md",
+    "Leetcode/1035 Uncrossed Lines.md",
     "Leetcode/5 Longest palindromic substring.md",
     "Leetcode/TOPICS/Binary tree.md",
     "Leetcode/515 Find Largest Value in Each Tree Row.md",
@@ -187,8 +193,6 @@
     "java_progs/Java programs in FS.md",
     "java_progs/Minimum suffix flips to reach final state.md",
     "Java.md",
-    "Basics/Untitled.md",
-    "Leetcode/931 Minimum Falling Path Sum.md",
     "Images/851.png",
     "Untitled.canvas",
     "Images/Trie.png",

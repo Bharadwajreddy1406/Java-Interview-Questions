@@ -8,10 +8,15 @@
 [[509 Fibonacci number]]
 [[746 Min Cost Climbing Stairs]]
 [[931 Minimum Falling Path Sum]]
+
+
+`Related ones~
+
 [[1143 Longest Common Subsequence]]
-
-
 [[5 Longest palindromic substring]]
+[[583 Delete Operation for Two Strings]]
+[[1035 Uncrossed Lines]]
+
 
 ---
 

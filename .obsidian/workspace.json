@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23f7a890171804e6",
+        "id": "371cfaa237dab7bc",
         "type": "tabs",
         "children": [
           {
-            "id": "83796645d00db6e2",
+            "id": "d82be5dc629234c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83796645d00db6e2",
+  "active": "d82be5dc629234c6",
   "lastOpenFiles": [
+    "Leetcode/TOPICS/DP.md",
+    "Leetcode/5 Longest palindromic substring.md",
     "Leetcode/TOPICS/Binary tree.md",
     "Leetcode/515 Find Largest Value in Each Tree Row.md",
     "Leetcode/TOPICS/BACKTRACKING.md",
@@ -186,9 +188,7 @@
     "java_progs/Minimum suffix flips to reach final state.md",
     "Java.md",
     "Basics/Untitled.md",
-    "Leetcode/TOPICS/DP.md",
     "Leetcode/931 Minimum Falling Path Sum.md",
-    "Leetcode/Max Raincoats Siddu can buy.md",
     "Images/851.png",
     "Untitled.canvas",
     "Images/Trie.png",

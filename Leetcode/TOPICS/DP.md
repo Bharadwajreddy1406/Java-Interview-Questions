@@ -11,6 +11,8 @@
 [[1143 Longest Common Subsequence]]
 
 
+[[5 Longest palindromic substring]]
+
 ---
 
 [[DP-01 FS]]

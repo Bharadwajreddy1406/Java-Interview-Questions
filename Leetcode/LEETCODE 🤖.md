@@ -17,3 +17,4 @@
 [[SQL]]
 [[Divide And Conquer]]
 [[GRID Problems]]
+[[Binary Search]]

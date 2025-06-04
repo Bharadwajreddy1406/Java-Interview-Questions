@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f60f24879b9a5eae",
+        "id": "2364bdcc631d7f13",
         "type": "tabs",
         "children": [
           {
-            "id": "09203bc283eda180",
+            "id": "511b4ee6a6217382",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/TOPICS/DP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DP"
+              "title": "New tab"
             }
           }
         ]
@@ -165,15 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09203bc283eda180",
+  "active": "511b4ee6a6217382",
   "lastOpenFiles": [
-    "Leetcode/583 Delete Operation for Two Strings.md",
+    "Leetcode/131 Palindrome Partitioning.md",
+    "Leetcode/TOPICS/BACKTRACKING.md",
+    "Leetcode/LEETCODE 🤖.md",
+    "Leetcode/TOPICS/Binary Search.md",
+    "java_progs/Spirit Bottles.md",
     "Leetcode/TOPICS/DP.md",
+    "java_progs/Toggle Sequence (Wiggle Sequence).md",
+    "Leetcode/583 Delete Operation for Two Strings.md",
     "Leetcode/1035 Uncrossed Lines.md",
     "Leetcode/5 Longest palindromic substring.md",
     "Leetcode/TOPICS/Binary tree.md",
     "Leetcode/515 Find Largest Value in Each Tree Row.md",
-    "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/513 Find Bottom Left Tree Value.md",
     "Leetcode/314 Binary Tree Vertical Order Traversal.md",
     "Leetcode/545 Boundary Traversal of the Binary Tree.md",
@@ -188,11 +189,6 @@
     "Leetcode/144 PreOrder Traversal.md",
     "Leetcode/543 Diameter of a Binary tree.md",
     "Leetcode/110 Balanced Binary Tree.md",
-    "Leetcode/401 Binary watch.md",
-    "Leetcode/LEETCODE 🤖.md",
-    "java_progs/Java programs in FS.md",
-    "java_progs/Minimum suffix flips to reach final state.md",
-    "Java.md",
     "Images/851.png",
     "Untitled.canvas",
     "Images/Trie.png",
